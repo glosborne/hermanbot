@@ -6,24 +6,13 @@ and yes I watched Pee Wee's Playhouse as a kid.
 
 The secret word is changed daily.
 
-This bot is running and is public, but I thought I'd share the code for anyone looking for an example of how to write this type of bot.
-
-
 ## Requirements
-
-To run the existing public bot, you don't need anything but admin level access to a Discord server and a web browser.
 
 To run the bot code on your system, you'll need node.js and npm, and be able to set a daily cron job if you want the secret
 word to change automatically.
 
 
 ## Installation
-
-### Public bot 
-While logged into Discord, go to: 
-https://discordapp.com/api/oauth2/authorize?client_id=688410847441322176&permissions=2048&scope=bot
-
-Choose your server and authorize the bot.
 
 ### Running the code yourself
 
