@@ -6,6 +6,10 @@ and yes I watched Pee Wee's Playhouse as a kid.
 
 The secret word is changed daily.
 
+## Using the public bot
+
+If you want to invite Herman to your existing server, just point your browser at https://discord.com/oauth2/authorize?client_id=688410847441322176&scope=bot .
+
 ## Requirements
 
 To run the bot code on your system, you'll need node.js and npm, and be able to set a daily cron job if you want the secret
